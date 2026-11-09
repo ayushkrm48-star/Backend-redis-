@@ -1,0 +1,16 @@
+{
+  "name": "store-user-profile",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ayush",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "ioredis": "^6.0.0",
+    "mongoose": "^9.12.0"
+  }
+}
